@@ -1,5 +1,7 @@
 # React Redux
 
+React Redux is an official React binding for the Redux state management library. It is a performant and flexible solution for integrating Redux with React applications.
+
 Official React bindings for [Redux](https://github.com/reduxjs/redux).  
 Performant and flexible.
 
